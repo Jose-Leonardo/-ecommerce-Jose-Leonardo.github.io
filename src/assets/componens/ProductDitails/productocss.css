@@ -1,0 +1,7 @@
+.imagen{
+    display: flex;
+    justify-content: space-around;
+}
+.Product-description-boton{
+    display: flex;
+}

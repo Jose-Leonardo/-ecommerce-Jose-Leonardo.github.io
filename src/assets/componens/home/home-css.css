@@ -1,0 +1,31 @@
+.home-Productos{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+.Card-home{
+    background: linear-gradient(178.29deg,#fbf9fa 0.92%,#e6e6e6  99.08%);
+    border-radius: 7px;
+    border: 1px solid #e6e6e6;
+    height: 450px;
+    width: 300px;
+    text-align: center;
+    margin: 50px;
+    cursor: pointer;
+}
+img{
+    height: 200px;
+    width: 200px;
+    object-fit: contain;
+    padding: 25px;
+}
+.Card-home_body{
+    padding-left: 15px;
+    display: flex;
+}
+small{
+    color: #7c7c7c;
+}
+.Card-home_div{
+    width: 50%;
+}

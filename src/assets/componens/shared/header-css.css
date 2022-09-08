@@ -1,0 +1,14 @@
+.header{
+    display: flex;
+    border: 1px solid #e6e6e6;
+}
+.header__div{
+    padding-left: 20px;
+    width: 70%;
+}
+.header__nav{
+    display: flex;
+    align-items: center;
+    width: 30%;
+    justify-content: space-around;
+}

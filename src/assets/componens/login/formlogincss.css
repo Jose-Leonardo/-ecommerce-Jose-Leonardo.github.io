@@ -1,0 +1,24 @@
+.login__padre{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 80vh;
+}
+
+.login__form{
+    background: linear-gradient(178.29deg,#fbf9fa 0.92%,#e6e6e6  99.08%);
+    border: 1px solid gray;
+    height: 350px;
+    width: 450px;
+    text-align: center;
+}
+
+.login__div{
+    height: 100px;
+}
+.login__div2{
+    padding: 15px;
+}
+.login__center{
+    margin: 10%;
+}
